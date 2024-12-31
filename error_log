@@ -1,0 +1,75 @@
+[16-Sep-2024 20:33:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home3/mclinpll/goldrateara.com/calculator.php:196
+Stack trace:
+#0 {main}
+  thrown in /home3/mclinpll/goldrateara.com/calculator.php on line 196
+[16-Sep-2024 20:33:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home3/mclinpll/goldrateara.com/calculator.php:196
+Stack trace:
+#0 {main}
+  thrown in /home3/mclinpll/goldrateara.com/calculator.php on line 196
+[16-Sep-2024 20:33:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home3/mclinpll/goldrateara.com/calculator.php:196
+Stack trace:
+#0 {main}
+  thrown in /home3/mclinpll/goldrateara.com/calculator.php on line 196
+[19-Sep-2024 15:13:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/index.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[19-Sep-2024 15:13:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/index.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[19-Sep-2024 16:41:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/index.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[20-Sep-2024 13:37:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/index.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[20-Sep-2024 14:37:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/calculator.php(4): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[20-Sep-2024 16:40:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/privacy.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[21-Sep-2024 16:42:37 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/calculator.php(4): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[21-Sep-2024 16:44:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/calculator.php(4): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
+[23-Sep-2024 18:36:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php:10
+Stack trace:
+#0 /home3/mclinpll/goldrateara.com/control-panel/include/connection.php(10): mysqli->__construct('localhost', 'mclinpll_goldra...', Object(SensitiveParameterValue), 'mclinpll_goldra...')
+#1 /home3/mclinpll/goldrateara.com/include/header.php(3): include('/home3/mclinpll...')
+#2 /home3/mclinpll/goldrateara.com/index.php(1): include('/home3/mclinpll...')
+#3 {main}
+  thrown in /home3/mclinpll/goldrateara.com/control-panel/include/connection.php on line 10
